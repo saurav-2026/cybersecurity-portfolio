@@ -63,8 +63,4 @@ Cybersecurity fundamentals and defensive security learning notes.
 - Linux (Basic)
 - GitHub (Documentation & version control)
 
----
 
-## 👤 Author
-**Saurav**  
-GitHub: https://github.com/saurav-2026
