@@ -1,0 +1,59 @@
+# Networking Practice Notes
+
+This document contains beginner networking concepts and basic troubleshooting commands used in real environments.
+
+---
+
+## 1. Key Networking Concepts
+
+### LAN (Local Area Network)
+A network within a small area such as home, office, or college.
+
+### WAN (Wide Area Network)
+A network that covers a large area, such as the internet.
+
+### IP Address
+A unique address assigned to a device on a network.
+
+### DNS (Domain Name System)
+DNS converts domain names like google.com into IP addresses.
+
+### DHCP (Dynamic Host Configuration Protocol)
+DHCP automatically assigns IP addresses to devices.
+
+---
+
+## 2. Common Networking Commands (Windows)
+
+```cmd
+ipconfig
+ipconfig /all
+ping google.com
+tracert google.com
+nslookup google.com
+ipconfig /release
+ipconfig /renew
+ipconfig /flushdns
+
+3. Basic Troubleshooting Steps
+When internet is not working:
+
+Check Wi-Fi or LAN cable connection
+Restart router
+Restart PC
+Check IP address using ipconfig
+Ping default gateway
+Ping google.com
+Flush DNS if needed
+
+4. TCP and UDP (Basic)
+
+TCP
+Connection-based
+Reliable communication
+Used in HTTP/HTTPS and Email
+
+UDP
+Faster but not reliable
+Used in streaming, gaming, and DNS
+
