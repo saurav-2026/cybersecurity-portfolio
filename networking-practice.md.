@@ -34,6 +34,11 @@ nslookup google.com
 ipconfig /release
 ipconfig /renew
 ipconfig /flushdns
+---
+## Screenshot Evidence
+### IP Configuration Output (Windows)
+![ipconfig output](assets/screenshots/ipconfig-output.png)
+
 
 3. Basic Troubleshooting Steps
 When internet is not working:
